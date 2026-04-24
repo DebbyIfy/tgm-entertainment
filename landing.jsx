@@ -147,6 +147,7 @@ const PackageCard = ({ pkg, recommended }) => {
 
 export default function App() {
   const [scrolled, setScrolled] = useState(false);
+  const heroImageSrc = `${import.meta.env.BASE_URL}hero-visibility.png`;
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 48);
@@ -173,7 +174,7 @@ export default function App() {
 
       <section id="top" className="hero">
         <div className="hero-media" aria-hidden="true">
-          <img src="/hero-visibility.png" alt="" />
+          <img src={heroImageSrc} alt="" />
         </div>
         <div className="hero-overlay" />
         <div className="hero-inner">
