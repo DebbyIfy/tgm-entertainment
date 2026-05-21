@@ -59,7 +59,7 @@ const steps = [
 const addons = [
   ["Red Carpet / Launch Event PR", "Full on-ground PR coverage for your event — press coordination, arrival coverage, and recap amplification.", "₦5,000,000"],
   ["Influencer Engagement", "Strategic creator partnerships to amplify your release across Instagram, TikTok, and YouTube.", "₦1,000,000"],
-  ["Paid Ads Management", "Meta & YouTube ad campaigns managed for maximum reach during your campaign window.", "₦200,000"],
+  ["Paid Ads Management", "Meta & YouTube ad campaigns managed for maximum reach during your campaign window.", "₦500,000"],
   ["Press Release Distribution", "Written and distributed to media contacts, entertainment blogs, and relevant desks.", "₦200,000"],
 ];
 
